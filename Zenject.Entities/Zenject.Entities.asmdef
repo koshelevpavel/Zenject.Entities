@@ -1,0 +1,17 @@
+{
+    "name": "Zenject.Entities",
+    "rootNamespace": "Zenject.Entities",
+    "references": [
+        "Unity.Entities",
+        "Zenject"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
