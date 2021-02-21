@@ -5,7 +5,7 @@ Verified for Unity 2020.1
   ## Installation
 
 - [Intall Zenject](https://github.com/modesttree/Zenject#installation)
-- [Install Entity Component System](https://docs.unity3d.com/Packages/com.unity.entities@0.17/manual/install_setup.html?q=install)
+- [Install Entity Component System](https://docs.unity3d.com/Packages/com.unity.entities@0.17/manual/install_setup.html)
 - [Install this package](https://docs.unity3d.com/Manual/upm-ui-giturl.html)
 ## Getting Started
 
